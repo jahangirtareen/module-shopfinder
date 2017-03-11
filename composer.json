@@ -1,0 +1,21 @@
+{
+    "name": "tareen/module-shopfinder",
+    "description": "Case Study",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jahangir Tareen",
+            "email": "jahangir.tareen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Tareen\\Shopfinder\\": ""
+        }
+    }
+}

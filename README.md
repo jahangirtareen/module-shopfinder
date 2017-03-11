@@ -1,1 +1,1 @@
-# module-shopfinder
+# m2-shopfinder
