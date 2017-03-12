@@ -8,7 +8,7 @@
             "email": "jahangir.tareen@gmail.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "files": [
